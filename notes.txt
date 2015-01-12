@@ -1,0 +1,20 @@
+Created a project in Google Developers Console:
+https://cloud.google.com/genomics/  (Step 1)
+
+Added 1000 genomes data to my project:
+https://github.com/googlegenomics/getting-started-bigquery
+
+Installed bigrquery package:
+https://github.com/hadley/bigrquery
+
+Examples:
+https://github.com/googlegenomics/bigquery-examples/tree/master/1000genomes
+
+Schema:
+https://bigquery.cloud.google.com/table/genomics-public-data:1000_genomes.variants?pli=1
+
+BigQuery reference:
+https://cloud.google.com/bigquery/query-reference
+
+Integration with Bioconductor:
+https://github.com/googlegenomics/api-client-r
